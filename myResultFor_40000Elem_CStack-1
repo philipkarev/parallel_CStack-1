@@ -1,0 +1,15 @@
+output for fillInputFile(40000)
+
+--------------------
+The output to output-files was made
+--------------------
+Cyclic shift testing
+
+Time for cyclic shift without omp constructions = 6 ms
+Time cyclic shift WITH omp constructions = 3 ms
+--------------------
+Sum searching testing
+
+Time for searching the sum without omp constructions = 7115 ms
+Time for searching the sum WITH omp constructions = 958 ms
+--------------------
